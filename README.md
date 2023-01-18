@@ -1,5 +1,7 @@
 ### Description
 #### This is just an educational project, of an E-Commerece website frontend made using ReactJS
+
+#### [View Website Demo](https://ssbaraskar99.github.io/NotAmazon/)
 ------------
 #### Cookie Policy
 ###### In simple words
