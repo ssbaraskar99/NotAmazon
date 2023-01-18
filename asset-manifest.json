@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NotAmazon/static/css/main.b07b87f7.css",
+    "main.js": "/NotAmazon/static/js/main.c4587429.js",
+    "static/js/27.1bcfeb08.chunk.js": "/NotAmazon/static/js/27.1bcfeb08.chunk.js",
+    "static/media/womenclothing.mp4": "/NotAmazon/static/media/womenclothing.41d90b556c28270c72e1.mp4",
+    "static/media/customercare.mp4": "/NotAmazon/static/media/customercare.6d015c838ff5bd440e34.mp4",
+    "static/media/electronics.mp4": "/NotAmazon/static/media/electronics.cb95dff07810866e7111.mp4",
+    "static/media/securepayments.mp4": "/NotAmazon/static/media/securepayments.4fd22137cfa61858267b.mp4",
+    "static/media/WomenClothingSale.mp4": "/NotAmazon/static/media/WomenClothingSale.c7fb393c78c471bfc178.mp4",
+    "static/media/JewellerySale.mp4": "/NotAmazon/static/media/JewellerySale.ca5a7e3f9198198fd071.mp4",
+    "static/media/MenClothing.mp4": "/NotAmazon/static/media/MenClothing.f69af5513f1a4e3c942b.mp4",
+    "static/media/menclothing.mp4": "/NotAmazon/static/media/menclothing.036f74e56085f068b885.mp4",
+    "static/media/ElectronicSale.mp4": "/NotAmazon/static/media/ElectronicSale.eee1bcba379c7d7ee593.mp4",
+    "static/media/jewellery.mp4": "/NotAmazon/static/media/jewellery.52ecd19a1754ab08ba27.mp4",
+    "static/media/fastdelivery.mp4": "/NotAmazon/static/media/fastdelivery.dac5215f67f186de7b82.mp4",
+    "index.html": "/NotAmazon/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.b07b87f7.css",
+    "static/js/main.c4587429.js"
+  ]
+}
