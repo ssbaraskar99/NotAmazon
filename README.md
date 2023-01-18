@@ -1,3 +1,6 @@
+### Description
+#### This is just an educational project, of an E-Commerece website frontend made using ReactJS
+------------
 #### Cookie Policy
 ###### In simple words
 - NotAmazon.com is made only for Educational purpose as an project.
