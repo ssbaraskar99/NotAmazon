@@ -41,7 +41,7 @@
 ------------
 
 
-####Licenses
+#### Licenses
 - NotAmazon.com logo & favicon is made by developer.
 - Product Data(images,prices,categories etc.) is provided for free by [Fake Store API](https://fakestoreapi.com/ "Fake Store API").
 - Developer has inverted, rotated product images as product image is just one.
